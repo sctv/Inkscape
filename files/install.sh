@@ -3,8 +3,8 @@
 #Inkscape
 
 #####################################
-#	Add PPA and install app          	#
-#							                  		#
+#	Add PPA and install app           #
+#							                  	  #
 #####################################
 add-apt-repository -y ppa:inkscape.dev/stable
 apt-get update -qq
